@@ -51,6 +51,7 @@ I used an old DVI<->Vga cable that I butchered cutting off the connectors on bot
 </a>
 <br /><br />
 I started with soldering the audio wires to the extension sides, holes with the "interconnected" symbol.
+<br />
 <a href="images/Amiga_db23_RGBS_pic14.jpg">
 <img src="images/Amiga_db23_RGBS_pic14.jpg" width="202" height="152">
 </a>
@@ -59,4 +60,27 @@ I started with soldering the audio wires to the extension sides, holes with the 
 </a>
 <a href="images/Amiga_db23_RGBS_pic16.jpg">
 <img src="images/Amiga_db23_RGBS_pic16.jpg" width="152" height="202">
+</a>
+
+***
+
+And then the rest, I used the three shielded wires for the RGB lines.
+
+<a href="images/Amiga_db23_RGBS_pic17.jpg">
+<img src="images/Amiga_db23_RGBS_pic17.jpg" width="202" height="152">
+</a>
+<a href="images/Amiga_db23_RGBS_pic18.jpg">
+<img src="images/Amiga_db23_RGBS_pic18.jpg" width="202" height="152">
+</a>
+<a href="images/Amiga_db23_RGBS_pic19.jpg">
+<img src="images/Amiga_db23_RGBS_pic19.jpg" width="202" height="152">
+</a>
+<a href="images/Amiga_db23_RGBS_pic20.jpg">
+<img src="images/Amiga_db23_RGBS_pic20.jpg" width="202" height="152">
+</a>
+<a href="images/Amiga_db23_RGBS_pic21.jpg">
+<img src="images/Amiga_db23_RGBS_pic21.jpg" width="202" height="152">
+</a>
+<a href="images/Amiga_db23_RGBS_pic22.jpg">
+<img src="images/Amiga_db23_RGBS_pic22.jpg" width="202" height="152">
 </a>
