@@ -89,7 +89,8 @@ And then the rest, I used the three shielded wires for the RGB lines.
 </a>
 
 ***
-Moment of truth,. hooking it up to the Amiga and yes it does work...I noticed I get more subtle vertical stripes with this cable then other Scart's I have tried, However I can still notice some "jailbars", check the last picture here from the game Another World. This is on my old Samsung LCD from 2005 that has seen better days. It is better on my plasma.
+
+Moment of truth, hooking it up to the Amiga and yes it does work...I noticed I get more subtle vertical stripes with this cable then other Scart's I have tried, However I can still notice some "jailbars", check the last picture here from the game Another World. This is on my old Samsung LCD from 2005 that has seen better days. It is better on my plasma.
 
 <a href="images/Amiga_db23_RGBS_pic24.jpg">
 <img src="images/Amiga_db23_RGBS_pic24.jpg" width="202" height="152">
