@@ -41,7 +41,7 @@ Let's solder this one. I used `220uF 16V size 1210` as coupling capacitors for t
 </a>
 
 ***
-I used an old DVI<->Vga cable that I butchered cutting off the connectors on both ends. I also found an old composite rca cable yellow-red-white laying around. I used the red-white part for the Audio. When making a cable with a SCART plug it makes sense to run the Left/Right audio wires inside the cable since the connector has both RGB video and stereo audio pins as standard. You can run the audio wires separately should you want to.
+I used an old DVI<->Vga cable that I butchered cutting off the plugs on both ends. I also found an old composite rca cable yellow-red-white laying around. I used the red-white part for the Audio. When making a cable with a SCART plug it makes sense to run the Left/Right audio wires inside the cable since the connector has both RGB video and stereo audio pins as standard. You can run the audio wires separately should you want to.
 
 <a href="images/Amiga_db23_RGBS_pic12.jpg">
 <img src="images/Amiga_db23_RGBS_pic12.jpg" width="202" height="152">
