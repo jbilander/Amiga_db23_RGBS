@@ -1,4 +1,4 @@
-# Amiga_db23_RGBS
+# Amiga_DB23_RGBS
 A small PCB with RGBS out from the Amiga d-sub db23 connector. Made with KiCad 5.1.2-1
 
 <a href="images/Amiga_db23_RGBS_pic1.jpg">
